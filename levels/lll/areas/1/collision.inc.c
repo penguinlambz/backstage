@@ -1,4 +1,4 @@
-const Collision fire_bubble_collision[] = {
+const Collision SketchUp_010_collision[] = {
 	COL_INIT(),
 	COL_VERTEX_INIT(329),
 	COL_VERTEX(-2689, 0, 2689),
